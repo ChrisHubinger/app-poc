@@ -1,0 +1,5 @@
+{
+	"name":"app",
+	"stack": "node",
+	"type": "Service"
+}
